@@ -17,3 +17,4 @@ Updated Header from class to tag.
 Updated from Header Div to Header Nav
 Consolidated benefits into one class (h3 and img)
 Consolidated Content class into "content items" (h2 and img)
+
