@@ -1,11 +1,9 @@
 # Horiseon Marketing
 
 ## HTML updates
-Corrected title of webpage to "Horiseon Marketing"
-
-Added <header></header> and removed header class
-
-Added <nav></nav> to header
+Corrected title of webpage to "Horiseon Marketing".
+Added <header></header> and removed header class. 
+Added <nav></nav> to header.
 
 Changed to <section> from <div> on hero class
   
