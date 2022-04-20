@@ -2,7 +2,9 @@
 
 ## HTML updates
 Corrected title of webpage to "Horiseon Marketing"
+</b>
 Added <header></header> and removed header class
+</b>
 Added <nav></nav> to header
 Changed to <section> from <div> on hero class
 Changed to <article> from <div> on content class
